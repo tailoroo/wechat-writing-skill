@@ -4,8 +4,16 @@
 
 ## 安装
 
+Linux / Mac：
+
 ```bash
 git clone https://github.com/tailoroo/wechat-writing-skill.git ~/.claude/skills/wechat-writing
+```
+
+Windows（PowerShell）：
+
+```powershell
+git clone https://github.com/tailoroo/wechat-writing-skill.git $HOME/.claude/skills/wechat-writing
 ```
 
 ## 使用
